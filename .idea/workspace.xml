@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07a720ae-c4b0-4658-9222-a8c22a2d31e4" name="Default Changelist" comment="Logos are in emails properly.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/admin/welcome-screen/automattic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/admin/welcome-screen/child-themes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/admin/welcome-screen/storefront-bundle-hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/controls/2cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/controls/2cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/categories/accessories.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/categories/hoodies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/categories/tshirts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/beanie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/belt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/cap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/hoodie-with-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/hoodie-with-pocket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/hoodie-with-zipper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/hoodie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/long-sleeve-tee.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/polo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/sunglasses.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/tshirt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/customizer/starter-content/products/vneck-tee.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app-server/resources/assets/js/components/EditControls.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-form-blocks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/customizer/customizer-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/customizer/customizer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/plugin-install.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/welcome-screen/welcome-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/admin/welcome-screen/welcome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/gutenberg-blocks-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/gutenberg-editor-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/gutenberg-editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/icons-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/base/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/jetpack/jetpack-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/jetpack/jetpack.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/advanced-product-labels-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/advanced-product-labels.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/ajax-layered-nav-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/ajax-layered-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/bookings-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/bookings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/brands-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/brands.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/bundles-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/bundles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/composite-products-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/composite-products.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/deposits-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/deposits.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/memberships-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/memberships.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/mix-and-match-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/mix-and-match.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/photography-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/photography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/product-reviews-pro-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/product-reviews-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/quick-view-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/quick-view.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/ship-multiple-addresses-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/ship-multiple-addresses.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/smart-coupons-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/smart-coupons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/variation-swatches-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/variation-swatches.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/wishlists-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/extensions/wishlists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce-legacy-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce-legacy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/fonts/fa-solid-900.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/admin/storefront-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/amex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/diners.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/discover.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/jcb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/laser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/maestro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/mastercard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/paypal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/images/credit-cards/visa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/admin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/customizer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/plugin-install.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/admin/plugin-install.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/homepage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/navigation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/skip-link-focus-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/skip-link-focus-fix.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/sticky-add-to-cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/sticky-add-to-cart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/vendor/pep.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/woocommerce/extensions/brands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/woocommerce/extensions/brands.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/class-storefront-woocommerce-customizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/back-compat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/color-patterns.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/customizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/icon-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/template-functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/inc/template-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/js/customize-controls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/js/customize-preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/js/priority-menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/js/skip-link-focus-fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/postcss.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/blocks/_blocks.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/elements/_elements.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/elements/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/elements/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/forms/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/forms/_fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/layout/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/media/_captions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/media/_galleries.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/media/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/mixins/_mixins-master.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/mixins/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/modules/_accessibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/modules/_alignments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/modules/_clearings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_links.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_menu-main-navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_menu-social-navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_navigation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/navigation/_next-previous.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/_site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/footer/_site-footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/header/_site-featured-image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/header/_site-header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/primary/_archives.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/primary/_comments.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/primary/_posts-and-pages.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/site/secondary/_widgets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/typography/_copy.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/typography/_headings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/typography/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_columns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_structure.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style-editor-customizer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style-editor-customizer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style-editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style-editor.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/content/content-none.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/content/content-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/content/content-single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/content/content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/header/entry-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/header/site-branding.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/post/author-bio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/archives.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/latest-comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/latest-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/blocks/shortcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-block-parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-block-type-registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-block-type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/editor-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/editor-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/editor.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/theme-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/theme-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/block-library/theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/components/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/components/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/components/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/components/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/edit-post/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/edit-post/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/edit-post/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/edit-post/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/editor-styles-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/editor-styles-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/editor-styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/editor-styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/editor/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/format-library/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/format-library/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/format-library/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/format-library/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/list-reusable-blocks/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/list-reusable-blocks/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/list-reusable-blocks/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/list-reusable-blocks/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/nux/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/nux/style-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/nux/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/dist/nux/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/a11y.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/a11y.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/annotations.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/api-fetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/api-fetch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/autop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/autop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/blob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/block-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/block-library.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/block-serialization-default-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/block-serialization-default-parser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/blocks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/components.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/compose.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/core-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/core-data.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/data.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/date.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/deprecated.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/dom-ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/dom-ready.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/dom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/edit-post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/edit-post.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/editor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/element.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/escape-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/escape-html.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/format-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/format-library.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/hooks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/hooks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/html-entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/html-entities.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/i18n.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/is-shallow-equal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/is-shallow-equal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/keycodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/keycodes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/list-reusable-blocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/list-reusable-blocks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/notices.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/nux.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/nux.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/plugins.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/redux-routine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/redux-routine.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/rich-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/rich-text.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/shortcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/shortcode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/token-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/token-list.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/url.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/react-dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/react-dom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/react.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/react.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/vendor/wp-polyfill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/viewport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/viewport.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/wordcount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/dist/wordcount.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/search/class-wp-rest-search-handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/bubble_bg-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/bubble_bg-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/loading.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-rtl-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-rtl-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-rtl.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize-rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/resize.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/spinner-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/spinner-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/spinner.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/spinner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/wpspin_light-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/wpspin_light-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/wpspin_light.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/images/wpspin_light.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_cry.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_cry.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_evil.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_evil.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_lol.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_lol.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_redface.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_redface.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_rolleyes.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/smilies/icon_rolleyes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/spinner-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/spinner-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/spinner.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/spinner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/wpspin-2x.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/wpspin-2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/wpspin.gif" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/images/wpspin.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/wp-tinymce.js.gz" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/wp-tinymce.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/public/css/app.css" afterPath="$PROJECT_DIR$/../app-server/public/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/public/js/app.js" afterPath="$PROJECT_DIR$/../app-server/public/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/resources/assets/js/app.jsx" afterPath="$PROJECT_DIR$/../app-server/resources/assets/js/app.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/resources/assets/js/components/EmailTimePicker.jsx" afterPath="$PROJECT_DIR$/../app-server/resources/assets/js/components/EmailTimePicker.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/resources/assets/sass/campaign-email-table.scss" afterPath="$PROJECT_DIR$/../app-server/resources/assets/sass/campaign-email-table.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/resources/views/campaigns/emails/edit.blade.php" afterPath="$PROJECT_DIR$/../app-server/resources/views/campaigns/emails/edit.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app-server/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/../app-server/resources/views/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.txt" afterPath="$PROJECT_DIR$/Readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.gitignore" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/livestore.cartcatch.com.iml" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/livestore.cartcatch.com.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/about.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/admin-ajax.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/admin-ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/admin-header.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/admin-header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/credits.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/credits.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/about.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/admin-menu.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/code-editor.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/color-picker.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/blue/colors-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/blue/colors-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/blue/colors.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/blue/colors.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/light/colors-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/light/colors-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/light/colors.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/colors/light/colors.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/common.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-controls.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-nav-menus-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-nav-menus-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-nav-menus.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-nav-menus.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-widgets-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-widgets-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-widgets.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/customize-widgets.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/dashboard.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/deprecated-media-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/deprecated-media-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/deprecated-media.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/deprecated-media.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/edit.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/forms.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/ie-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/ie-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/ie.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/ie.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/install-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/install-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/install.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/install.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/l10n-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/l10n-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/l10n.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/l10n.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/list-tables.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/login-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/login-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/login.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/login.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/media.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/nav-menus-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/nav-menus-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/nav-menus.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/nav-menus.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/revisions.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/themes.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/css/widgets.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-form-advanced.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-form-advanced.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-form-comment.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-form-comment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-link-form.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit-link-form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/freedoms.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/freedoms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/admin-filters.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/admin-filters.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/ajax-actions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/ajax-actions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-ftp.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-ftp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-plugin-install-list-table.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-plugin-install-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-posts-list-table.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-posts-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-screen.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-screen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-theme-install-list-table.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/class-wp-theme-install-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/dashboard.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/image.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/meta-boxes.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/meta-boxes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/misc.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/misc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/plugin.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/post.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/update-core.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/update-core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/upgrade.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/includes/upgrade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/index.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/customize-nav-menus.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/customize-nav-menus.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/dashboard.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/dashboard.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/js/dashboard.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/load-scripts.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/load-scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/load-styles.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/load-styles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/nav-menus.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/nav-menus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/plugins.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/plugins.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/post-new.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/post-new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/post.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/404.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/README.txt" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/archive.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/archive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/comments.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/content-homepage.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/content-homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/content-none.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/content-none.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/footer.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/functions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/header.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/admin/class-storefront-admin.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/admin/class-storefront-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/admin/class-storefront-plugin-install.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/admin/class-storefront-plugin-install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/class-storefront.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/class-storefront.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-arbitrary.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-arbitrary.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-more.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-more.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-radio-image.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer-control-radio-image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/customizer/class-storefront-customizer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/jetpack/class-storefront-jetpack.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/jetpack/class-storefront-jetpack.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-admin.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-guided-tour.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-guided-tour.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-starter-content.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/nux/class-storefront-nux-starter-content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-functions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-template-functions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-template-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-template-hooks.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/storefront-template-hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/class-storefront-woocommerce.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/class-storefront-woocommerce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/inc/woocommerce/storefront-woocommerce-template-hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/index.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/languages/storefront.pot" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/languages/storefront.pot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/loop.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/loop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/page.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/search.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/single.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/style-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/style-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/style.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/template-fullwidth.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/template-fullwidth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/template-homepage.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/themes/storefront/template-homepage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/admin-bar.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/admin-bar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/author-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/author-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/capabilities.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/capabilities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/category-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/category-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-oembed.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-oembed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-walker-category.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-walker-category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-comment-query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-comment-query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-customize-manager.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-customize-manager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-dependency.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-dependency.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-editor.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-editor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-image-editor.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-image-editor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-locale-switcher.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-locale-switcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-network-query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-network-query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-oembed-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-oembed-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-site-query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-site-query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-term-query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-term-query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-text-diff-renderer-table.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-text-diff-renderer-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-theme.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-xmlrpc-server.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class-wp-xmlrpc-server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class.wp-scripts.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/class.wp-scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/comment-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/comment-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/comment.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/comment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/admin-bar-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/admin-bar-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/admin-bar.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/admin-bar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/buttons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/customize-preview.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/editor.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/jquery-ui-dialog.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/media-views.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check-rtl.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-auth-check.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-embed-template.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-embed-template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-embed-template.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-embed-template.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-pointer-rtl.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-pointer-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-pointer.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/css/wp-pointer.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/customize/class-wp-customize-new-menu-control.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/customize/class-wp-customize-new-menu-control.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/customize/class-wp-customize-new-menu-section.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/customize/class-wp-customize-new-menu-section.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/default-constants.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/default-constants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/default-filters.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/default-filters.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/deprecated.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/deprecated.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/embed.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/embed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/formatting.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/formatting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/functions.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/functions.wp-scripts.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/functions.wp-scripts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/general-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/general-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/api-request.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/api-request.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/api-request.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/api-request.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/heartbeat.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/heartbeat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/heartbeat.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/heartbeat.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-audiovideo.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-audiovideo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-audiovideo.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-audiovideo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-grid.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-grid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-grid.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-grid.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-models.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-models.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-models.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-models.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-views.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-views.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-views.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/media-views.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/mediaelement/wp-mediaelement.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/mediaelement/wp-mediaelement.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/plugins/wordpress/plugin.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/plugins/wordpress/plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/skins/lightgray/skin.min.css" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/tinymce/skins/lightgray/skin.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-api.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-api.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-api.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-embed.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-embed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-embed.min.js" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/js/wp-embed.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/kses.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/kses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/l10n.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/l10n.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/load.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/media-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/media-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/meta.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/meta.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/nav-menu.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/nav-menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/pluggable.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/pluggable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/pomo/plural-forms.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/pomo/plural-forms.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post-thumbnail-template.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post-thumbnail-template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/query.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/script-loader.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/script-loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/taxonomy.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/taxonomy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/theme.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/user.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/version.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/version.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/widgets.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/wp-db.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-includes/wp-db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-login.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-settings.php" afterPath="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-settings.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="532964353">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+              <folding>
+                <element signature="e#2254#2316#0#HTML" expanded="true" />
+                <element signature="e#2317#2323#1#HTML" expanded="true" />
+                <marker date="1544521381772" expanded="true" signature="2383:4616" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/emails/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/app.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="763" column="27" lean-forward="false" selection-start-line="763" selection-start-column="27" selection-end-line="763" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#11707#18964#0" expanded="false" />
+                <element signature="e#20176#24111#0" expanded="false" />
+                <element signature="e#24180#28126#0" expanded="false" />
+                <element signature="e#28195#32141#0" expanded="false" />
+                <element signature="e#33261#34631#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="campaign-email-table.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/sass/campaign-email-table.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditControls.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/components/EditControls.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmailTimePicker.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/components/EmailTimePicker.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding>
+                <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bare.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/views/layouts/bare.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="88" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>business</find>
+      <find>WC_Product_simple</find>
+      <find>image</find>
+      <find>wc_product_variation</find>
+      <find>WC_Cart</find>
+      <find>add_to_cart</find>
+      <find>getimageurl</find>
+      <find>setu</find>
+      <find>finish your purch</find>
+      <find>finish your pur</find>
+      <find>emailtoshow</find>
+      <find>emailToShow</find>
+      <find>debugger</find>
+      <find>show:</find>
+      <find>minutesremaining</find>
+      <find>getdayshours</find>
+      <find>console.lo</find>
+      <find>subject line</find>
+      <find>editingField</find>
+      <find>console.log</find>
+      <find>second paragr</find>
+      <find>setediting</find>
+      <find>66</find>
+      <find>cartreb</find>
+      <find>Edit</find>
+      <find>editcontr</find>
+      <find>&lt;td&gt;</find>
+      <find>substitute_vars</find>
+      <find>substituted</find>
+      <find>replace</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../app-server" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-config.php" />
+        <option value="$PROJECT_DIR$/js/wc-cart-catch.js" />
+        <option value="$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CampaignController.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/emails/email-item-row.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/emails/email-one.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/emails/email-three.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/emails/email-two.blade.php" />
+        <option value="$PROJECT_DIR$/wc-cart-catch.php" />
+        <option value="$PROJECT_DIR$/../app-server/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/layouts/bare.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/../app-server/app/TemplateHelper.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/campaigns/index-email-row.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/routes/web.php" />
+        <option value="$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CampaignEmailController.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/js/components/EmailTimePicker.jsx" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/js/components/EditControls.jsx" />
+        <option value="$PROJECT_DIR$/Readme.txt" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/sass/campaign-email-table.scss" />
+        <option value="$PROJECT_DIR$/../app-server/.env" />
+        <option value="$PROJECT_DIR$/../app-server/resources/views/campaigns/emails/edit.blade.php" />
+        <option value="$PROJECT_DIR$/../app-server/resources/assets/js/app.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="livestore.cartcatch.local" id="18e41130-04c4-47b9-bbaa-3c857d4e4f92" name="livestore.cartcatch.local" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/code/projects/cartrebound/cartcatch-for-woocommerce" />
+          <mapping local-root="$PROJECT_DIR$/../../sites/livestore.cartcatch.com" remote-root="/home/vagrant/code/livestore.cartcatch.com" />
+        </path_mappings>
+      </server>
+      <server host="app.cartrebound.local" id="bd68d4ab-0a88-47f8-b110-1121b8a4427d" name="app.cartrebound.local" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/../app-server" remote-root="/home/vagrant/code/app.cartrebound.com" />
+          <mapping local-root="$PROJECT_DIR$/../app-server/public" remote-root="/home/vagrant/code/app.cartrebound.com/public" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://livestore.cartcatch.local/wp-content/plugins/cartcatch-for-woocommerce/" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cartcatch-for-woocommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cartcatch-for-woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cartcatch-for-woocommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cartcatch-for-woocommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cartcatch-for-woocommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cartcatch-for-woocommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-server" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="Push.Settings">
+    <excluded-roots>
+      <path value="$PROJECT_DIR$/../../sites/livestore.cartcatch.com" />
+    </excluded-roots>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a720ae-c4b0-4658-9222-a8c22a2d31e4" name="Default Changelist" comment="" />
+      <created>1535976110322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535976110322</updated>
+      <workItem from="1535976112675" duration="17000" />
+      <workItem from="1535976395880" duration="232000" />
+      <workItem from="1544391526840" duration="37333000" />
+    </task>
+    <task id="LOCAL-00001" summary="Strip test stuff&#10;Logging optional">
+      <created>1544391824522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544391824522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Remove tests file.">
+      <created>1544393053049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544393053049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Preparation for submission to wordpress">
+      <created>1544401561003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544401561003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Improve commenting on JS file.">
+      <created>1544404403791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544404403791</updated>
+    </task>
+    <task id="LOCAL-00005" summary="force sync.">
+      <created>1544405075264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544405075264</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Logos are in emails properly.">
+      <created>1544408878677</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544408878677</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix emails">
+      <created>1544411257404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544411257404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- Refactor image handling (had an error in it as well)&#10;- Variable products were not handled properly, in a number of places.">
+      <created>1544411378409</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544411378409</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Overhaul dashboard, part 0">
+      <created>1544512149216</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544512149216</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dynamic email editor is per email now">
+      <created>1544513306296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544513306296</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37582000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17380953" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32038835" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31013307" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28454453" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Strip test stuff&#10;Logging optional" />
+    <MESSAGE value="Remove tests file." />
+    <MESSAGE value="Preparation for submission to wordpress" />
+    <MESSAGE value="Improve commenting on JS file." />
+    <MESSAGE value="force sync." />
+    <MESSAGE value="Logos are in emails properly." />
+    <MESSAGE value="Fix emails" />
+    <MESSAGE value="- Refactor image handling (had an error in it as well)&#10;- Variable products were not handled properly, in a number of places." />
+    <MESSAGE value="Overhaul dashboard, part 0" />
+    <MESSAGE value="Dynamic email editor is per email now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic email editor is per email now" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/wc-cart-catch.php</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CampaignController.php</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wc-cart-catch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#347#0#PHP" expanded="true" />
+            <element signature="e#22437#25456#0#PHP" expanded="false" />
+            <element signature="e#26714#29000#0#PHP" expanded="false" />
+            <element signature="e#29378#30669#0#PHP" expanded="false" />
+            <element signature="e#30788#31629#0#PHP" expanded="false" />
+            <marker date="1544411188663" expanded="true" signature="1230:1270" ph="CREATE TABLE... ${$wp_track_table}" />
+            <marker date="1544411188663" expanded="true" signature="10419:10466" ph="select * fro... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="15005:15082" ph="select cart_... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="18709:18782" ph="select * fro... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="21334:21393" ph="select count... " />
+            <marker date="1544411188663" expanded="true" signature="21648:21756" ph="select modif... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="22115:22203" ph="select count... " />
+            <marker date="1544411188663" expanded="true" signature="22880:22920" ph="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/cartcatch_tests.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-admin/admin-ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wc-cart-catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#1209#1694#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/form-upload.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CartsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="84" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/plugins/woocommerce/includes/class-wc-product-simple.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830">
+          <caret line="598" column="41" lean-forward="false" selection-start-line="598" selection-start-column="20" selection-end-line="598" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/plugins/woocommerce/includes/api/legacy/v3/class-wc-api-products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="1782" column="48" lean-forward="false" selection-start-line="1782" selection-start-column="48" selection-end-line="1782" selection-end-column="48" />
+          <folding>
+            <marker date="1544399381704" expanded="true" signature="19520:19768" ph="SELECT order... $" />
+            <marker date="1544399381704" expanded="true" signature="81981:82074" ph="SELECT * FRO... $" />
+            <marker date="1544399381704" expanded="true" signature="91483:91589" ph="SELECT attri... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="183" column="20" lean-forward="false" selection-start-line="183" selection-start-column="19" selection-end-line="183" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/emails/email-one.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <marker date="1544410775070" expanded="true" signature="436:2495" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../sites/livestore.cartcatch.com/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="1002" column="31" lean-forward="false" selection-start-line="1002" selection-start-column="20" selection-end-line="1002" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wc-cart-catch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="256" column="46" lean-forward="false" selection-start-line="256" selection-start-column="46" selection-end-line="257" selection-end-column="44" />
+          <folding>
+            <element signature="e#6#347#0#PHP" expanded="true" />
+            <element signature="e#22437#25456#0#PHP" expanded="false" />
+            <element signature="e#26714#29000#0#PHP" expanded="false" />
+            <element signature="e#29378#30669#0#PHP" expanded="false" />
+            <element signature="e#30788#31629#0#PHP" expanded="false" />
+            <marker date="1544411188663" expanded="true" signature="1230:1270" ph="CREATE TABLE... ${$wp_track_table}" />
+            <marker date="1544411188663" expanded="true" signature="10419:10466" ph="select * fro... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="15005:15082" ph="select cart_... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="18709:18782" ph="select * fro... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="21334:21393" ph="select count... " />
+            <marker date="1544411188663" expanded="true" signature="21648:21756" ph="select modif... ${$table}" />
+            <marker date="1544411188663" expanded="true" signature="22115:22203" ph="select count... " />
+            <marker date="1544411188663" expanded="true" signature="22880:22920" ph="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/emails/email-item-row.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/emails/email-three.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/emails/email-two.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/setup.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CampaignController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="e#44#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/Mail/EmailOne.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/TemplateHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13999" column="39" lean-forward="false" selection-start-line="13999" selection-start-column="39" selection-end-line="13999" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/index-email-row.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/app/Http/Controllers/Web/CampaignEmailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="76" lean-forward="false" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+          <folding>
+            <element signature="e#44#68#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="88" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/layouts/bare.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="56" lean-forward="false" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding>
+            <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="e#2254#2316#0#HTML" expanded="true" />
+            <element signature="e#2317#2323#1#HTML" expanded="true" />
+            <marker date="1544521381772" expanded="true" signature="2383:4616" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/components/EmailTimePicker.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="83" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="79" lean-forward="false" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/components/EditControls.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/sass/campaign-email-table.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/views/campaigns/emails/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="46" column="35" lean-forward="false" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app-server/resources/assets/js/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="763" column="27" lean-forward="false" selection-start-line="763" selection-start-column="27" selection-end-line="763" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#11707#18964#0" expanded="false" />
+            <element signature="e#20176#24111#0" expanded="false" />
+            <element signature="e#24180#28126#0" expanded="false" />
+            <element signature="e#28195#32141#0" expanded="false" />
+            <element signature="e#33261#34631#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
